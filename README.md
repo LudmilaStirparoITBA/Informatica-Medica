@@ -5,4 +5,4 @@
 
 Este repositorio contiene los ejercicios del Trabajo Práctico Nº5 de Bases de Datos para la materia Informática Médica dictada en el ITBA. 
 
-![itba (1)](https://github.com/user-attachments/assets/8cf94fb4-7ca3-4775-a02e-91a6e6965195)
+<img src="https://github.com/user-attachments/assets/8cf94fb4-7ca3-4775-a02e-91a6e6965195" alt="ITBA" width="200">
