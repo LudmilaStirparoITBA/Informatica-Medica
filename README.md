@@ -1,2 +1,5 @@
-# Informatica-Medica
-Este repositorio contiene los ejercicios del Trabajo Práctico Nº5 de Bases de Datos para la materia Informática Médica. 
+# **TRABAJO PRÁCTICO N°5:** BBDD, SQL, Manejo de Versiones y Reporting
+## Grupo 8: Ludmila Stirparo y Natalia Boan
+
+
+Este repositorio contiene los ejercicios del Trabajo Práctico Nº5 de Bases de Datos para la materia Informática Médica dictada en el ITBA. 
