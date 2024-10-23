@@ -49,7 +49,8 @@ Figura1: Diagrama entidad-relación de la base de datos
 ### 3. Armar el Modelo relacional de la base de datos dada.
 El modelo relacional se obtiene a partir de la información de los puntos anterior. A continuación,
 se observa el modelo:
-![modelo_relacional](Imagenes\modelo_relacional.png)
+
+<img src="Imagenes\modelo_relacional.png" alt="ejemplo_modelo-ER" style="width:500px;"/>
 Figura 2: Modelo relacional de la base de datos
 
 ### 4. Considera que la base de datos está normalizada. En caso que no lo esté, ¿cómo podría hacerlo?
