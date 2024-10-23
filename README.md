@@ -7,7 +7,9 @@ Este repositorio contiene los ejercicios del Trabajo Práctico Nº5 de Bases de 
 
 ### **Contenido:**
 - Scripts SQL para la creación y manipulación de bases de datos.
-- Código de configuración y archivos de trabajo para Git y GitHub.
+    - Archivos con los puntos 1-10 de la Parte 2 del TP, creados en un mismo _commit_.
+    - Archivos con los puntos 11-15 de la Parte 2, creados en _commits_ propios de cada uno de ellos.
+    - Un único archivo con los puntos 16, 17 y 18 cargados en una rama secundaria, con el _pull request_ en espera.
 - Documentación y referencias utilizadas para completar el TP.
 
 <img src="https://github.com/user-attachments/assets/8cf94fb4-7ca3-4775-a02e-91a6e6965195" alt="ITBA" width="200">
