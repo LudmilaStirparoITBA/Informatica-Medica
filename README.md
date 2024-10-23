@@ -12,6 +12,6 @@ Este repositorio contiene los ejercicios del Trabajo Práctico Nº5 de Bases de 
     - Un único archivo con los puntos 16, 17 y 18 cargados en una rama secundaria, con el _pull request_ en espera.
 - Link a la base de datos: [Google Sheets](https://docs.google.com/spreadsheets/d/16_U4Ldv-PxYYBL6hXLNVvvDNqiavPm54BDyxjr7lmcI/edit?usp=sharing)
 - Link al tablero en LookerStudio: [Tablero](https://lookerstudio.google.com/s/qHOjQKMYBXc)
-- Documentación y referencias utilizadas para completar el TP.
+- Archivo markdown con las Partes 1 y 2 del TP.
 
 <img src="https://github.com/user-attachments/assets/8cf94fb4-7ca3-4775-a02e-91a6e6965195" alt="ITBA" width="200">
